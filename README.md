@@ -1,1 +1,1 @@
-# legendery-web
+# legendary-web
